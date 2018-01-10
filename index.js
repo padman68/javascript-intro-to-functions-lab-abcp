@@ -22,7 +22,7 @@ lowercase.toLowerCase() === string
 
 function sayHiToGrandma(string) {
   string.toUpperCase() === string
-  return sayHiToGrandma('YES INDEED!')
+  return sayHiToGrandma(string)
 }
 
 function sayHiToGrandma(string) {
