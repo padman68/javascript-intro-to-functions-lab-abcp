@@ -21,7 +21,7 @@ lowercase.toLowerCase() === string
 }
 
 function sayHiToGrandma(string) {
-  string.toUpperCase() === uppercase
+  string.toUpperCase() === string
   return sayHiToGrandma('YES INDEED!')
 }
 
