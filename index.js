@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  string === string
+  string == string.toUpperCase()
   return sayHiToGrandma(string)
 }
 
