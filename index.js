@@ -21,5 +21,5 @@ function sayHiToGrandma(string) {
 
 function sayHiToGrandma(string) {
   string.toUpperCase() === string
-  return sayHiToGrandma('I can\'t hear you!')
+  return sayHiToGrandma('YES INDEED!')
 }
